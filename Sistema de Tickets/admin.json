@@ -1,0 +1,12 @@
+{
+    "usuarios": [
+        {
+            "correo": "LuceroLazcano",
+            "contrasena": "TransformacionSYCSA"
+        },
+        {
+            "correo": "Pasante",
+            "contrasena": "PasanteTecnico"
+        }
+    ]
+}

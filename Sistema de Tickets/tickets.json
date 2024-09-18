@@ -1,0 +1,12 @@
+{
+    "tickets": [
+        {
+            "id": "66e9b1395e50c",
+            "area": "Ingenieria",
+            "solicitante": "Testing",
+            "tipoFalla": "Red",
+            "descripcion": "TEST",
+            "estado": "Pendiente"
+        }
+    ]
+}
