@@ -1,0 +1,7 @@
+{
+    "name": "sistemadetickets",
+    "description": "Sistema de tickets para grupo industrial telleria",
+    "require": {
+        "php": ">=8.0"
+    }
+}
